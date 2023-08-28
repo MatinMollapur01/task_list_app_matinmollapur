@@ -15,7 +15,7 @@ A straightforward desktop application for managing daily tasks. Developed using 
 
 1. **Clone the repository**
     ```bash
-    git clone https://github.com/YourUsername/task-list_app_matinmollapur.git
+    https://github.com/MatinMollapur01/task_list_app_matinmollapur.git
     ```
 
 2. **Navigate to the directory**
